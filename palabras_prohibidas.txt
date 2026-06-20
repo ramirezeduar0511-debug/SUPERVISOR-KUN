@@ -1,0 +1,16 @@
+# ============================================================
+# PALABRAS PROHIBIDAS — Supervisor-kun
+# ============================================================
+# Agrega una palabra por línea.
+# Las líneas que empiecen con # son comentarios y se ignoran.
+# El filtro detecta la palabra aunque esté dentro de otra
+# (ejemplo: "laputamadre" activa "puta madre").
+# ============================================================
+
+# — Insultos generales —
+puto
+puto
+puta
+mierda
+perra
+pendejo
